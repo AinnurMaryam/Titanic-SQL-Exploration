@@ -28,7 +28,7 @@ This project explores the Titanic dataset using SQL to analyze survival rates, p
    ```sql
    SELECT sex, survived, COUNT(*) FROM titanic GROUP BY sex, survived;
 
-## For full analysis and results, see Titanic_Analysis_Report.pdf
+For full analysis and results, see Titanic_Analysis_Report.pdf
 
 ## 🚀 How to Run
 Download the titanic.sql or titanic.csv file.
