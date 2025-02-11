@@ -31,11 +31,11 @@ This project explores the Titanic dataset using SQL to analyze survival rates, p
 For full analysis and results, see Titanic_Analysis_Report.pdf
 
 ## 🚀 How to Run
-Download the titanic.sql or titanic.csv file.
-Import it into an SQL database (e.g., MySQL, SQLite).
-Run the queries in titanic_analysis.sql using your SQL environment.
+- Download the titanic.sql or titanic.csv file.
+- Import it into an SQL database (e.g., MySQL, SQLite).
+- Run the queries in titanic_analysis.sql using your SQL environment.
 
 ## 📂 Files Included
-Titanic_Analysis_Report.pdf → Full SQL analysis report with insights
-titanic_analysis.sql → SQL queries used in this project
-titanic.csv (if needed) → Titanic dataset
+- Titanic_Analysis_Report.pdf → Full SQL analysis report with insights
+- titanic_analysis.sql → SQL queries used in this project
+- titanic.csv (if needed) → Titanic dataset
